@@ -1,2 +1,2 @@
 https://flyrankmlcapstone.vercel.app
-https://imtiyazsoomro.github.io/flyrank-ml-internship-imtiyaz/
+https://github.com/Imtiyazsoomro/flyrank-ml-internship-imtiyaz/blob/main/work/capstone_report.md
